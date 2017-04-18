@@ -13,8 +13,8 @@ Logan Drake
 This lesson will use API, AJAX, and Json to build a web application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://github.com/theofficiallsd/lesson8_ajax.git 
 
 ### Lessons Learned in the Assignment:
 1. I learned how to use API to build a web application.
