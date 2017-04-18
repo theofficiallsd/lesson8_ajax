@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/17/2017
 
 ### Student Name:  
-(First and Last Name)
+Logan Drake
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson will use API, AJAX, and Json to build a web application.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use API to build a web application.
+2. In this lesson I created an application that is very similar to the Internet Movie Database (IMDb).
+3. I learned how to use AJAX (Asynchronous Javascript XML) to load data from a server based on a choice a user makes when using the application.
